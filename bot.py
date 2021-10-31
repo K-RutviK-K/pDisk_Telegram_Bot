@@ -147,9 +147,10 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ━━━━━━━━━━━━━━━
+⚙️ Download Or Watch Online
+━━━━━━━━━━━━━━━
 ⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
     return str + footer
-━━━━━━━━━━━━━━━
 
 
 bot.run()
