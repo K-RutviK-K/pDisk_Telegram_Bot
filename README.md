@@ -1,6 +1,6 @@
 # Pdisk Uploader Bot 🔥
 
-Upload on Pdisk by Url, File and also by direct forward post from other channel...
+Upload on Pdisk by Url, File and also by Direct forward post from other channel...
 
 ## Features
 
