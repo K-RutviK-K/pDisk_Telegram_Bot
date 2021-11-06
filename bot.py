@@ -61,7 +61,7 @@ async def get_ptitle(url):
     title = title[8:]
     str = 't.me/' + CHANNEL + ' '
     for i in title:
-        str = str + i
+        str = i + str
     lst = list(html_text.split(","))
     c = 0
     for i in lst:
